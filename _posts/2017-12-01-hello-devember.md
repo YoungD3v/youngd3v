@@ -26,7 +26,7 @@ with algorithms (CFR, MaxMin, MCTS, ANN) and with testing environment tournament
 
 ## Progress
 
-Today I spent most of the time setting up this pages. Created GitHub repo and prepared all necessary stuff in IDE. Just boring stuff. 
+Today I spent most of the time setting up this pages. Created GitHub [repo](https://github.com/YoungD3v/GTFramework) and prepared all necessary stuff in IDE. Just boring stuff. 
 Also give some thoughts to the architecture with pen and paper.
 
 Besides this GT framework I am doing [Advent of Code](http://adventofcode.com/2017), cause challenging collegues from work is awesome. 
