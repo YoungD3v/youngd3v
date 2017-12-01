@@ -1,0 +1,18 @@
+---
+layout: default
+title: Young D3v
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Repos and projects</h1>
+  <ul class="posts">
+    <li><a href="https://github.com/YoungD3v/GTFramework">Devember 2017:</a>Game Theory framework</li>
+  </ul>
+</div>
