@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Devember \#2 and \#3
+title: Devember 2nd and 3rd day
 ---
 
 {{ page.title }}
